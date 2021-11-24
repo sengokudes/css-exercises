@@ -1,0 +1,14 @@
+.btn-1 {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.btn-2 {
+    background-color: hsl(60, 100%, 50%);
+}
+
+.btn-1, 
+.btn-2 {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
